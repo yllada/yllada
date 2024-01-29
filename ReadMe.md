@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hola, soy Yadian Llada @yllada.<br>👀 ¡Soy un amante de la programacion, la enseñanza y los videojuegos!<br>🌱 Actualmente estoy aprendiendo muchas cosas, me estoy superándo cada día más profesionalmente. 
+👋 Hola, soy Yadian Llada Lopez @yllada.<br>👀 ¡Soy un amante de la programacion, la enseñanza y los videojuegos!<br>🌱 Actualmente estoy aprendiendo muchas cosas, me estoy superándo cada día más profesionalmente. 
 
 
 ## 🌐 Socials:
