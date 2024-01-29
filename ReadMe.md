@@ -23,11 +23,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yllada&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=yllada&label=Profile%20Views&color=0&icon=0&pretty=false" />
-</a>
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yllada&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
