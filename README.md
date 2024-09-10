@@ -53,7 +53,7 @@
 ## 📂 Featured Projects
 
 <p>
-  <a href="https://github.com/orgs/utmstack/projects/2">
+  <a href="https://github.com/utmstack">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=utmstack&repo=UTMStack&theme=radical" />
   </a>
 </p>
