@@ -87,6 +87,6 @@
 ## 🤝 Let's Connect!
 
 - 💬 LinkedIn: [@yllada94](https://www.linkedin.com/in/yllada94)
-- 📧 Email: [yadian.llada@gmail.com]
+- 📧 Email: yadian.llada@gmail.com
 
 Thank you for visiting my GitHub profile! 😊
