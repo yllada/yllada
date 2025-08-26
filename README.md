@@ -241,16 +241,13 @@
 
 <div align="center">
 
-## 🏅 Certifications & Achievements
+## 🌟 Open Source Contributions
 
 </div>
 
 <div align="center">
 
-| Cloud Platforms | Security | Development |
-|:---:|:---:|:---:|
-| ![AWS](https://img.shields.io/badge/AWS_Solutions_Architect-Pursuing-FF9900?style=flat-square&logo=amazon-aws) | ![Security](https://img.shields.io/badge/Cybersecurity_Expert-Certified-DC143C?style=flat-square&logo=security) | ![Go](https://img.shields.io/badge/Go_Expert-Professional-00ADD8?style=flat-square&logo=go) |
-| ![Azure](https://img.shields.io/badge/Azure_Fundamentals-Certified-0078D4?style=flat-square&logo=microsoft-azure) | ![SIEM](https://img.shields.io/badge/SIEM_Specialist-Advanced-FF6B6B?style=flat-square&logo=elastic) | ![Kubernetes](https://img.shields.io/badge/K8s_Administrator-Pursuing-326CE5?style=flat-square&logo=kubernetes) |
+<img src="https://github-contributor-stats.vercel.app/api?username=yllada&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 
 </div>
 
