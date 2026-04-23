@@ -1,8 +1,8 @@
 # Yadian Llada
 
-Go backend engineer. I ship production security code.
+Go backend engineer. I build systems you'd trust with data you can't afford to lose.
 
-#6 contributor on UTMStack with 171 commits across SIEM, XDR, and SOAR — Go backend engineer in production security.
+#6 contributor on UTMStack — 171 commits across SIEM, XDR, and SOAR backend services in Go.
 
 [Portfolio](https://yllada.github.io) · [LinkedIn](https://www.linkedin.com/in/yllada94) · yadian.llada@gmail.com
 
@@ -13,7 +13,7 @@ Go backend engineer. I ship production security code.
 
 Personal: [Combazo](https://combazo.vercel.app/) (Next.js e-commerce, in production) · [vpn-manager](https://github.com/yllada/vpn-manager) (GTK4 + Go, MIT) · [Send-Log-TCP](https://github.com/yllada/Send-Log-TCP) (Wails + Go). More on the [portfolio](https://yllada.github.io#work).
 
-Currently: shipping GitDocAI MVP and Windows ARM64 support for the UTMStack agent.
+Currently: shipping GitDocAI MVP, Windows ARM64 support for the UTMStack agent, and the occasional side quest in Linux tooling.
 
 Open to remote backend roles, consulting contracts, and OSS collaborations — reach me at yadian.llada@gmail.com.
 
