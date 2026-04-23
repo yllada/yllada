@@ -16,8 +16,8 @@
   <a href="mailto:yadian.llada@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
   </a>
-  <a href="#featured-projects">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-4C51BF?style=for-the-badge&logo=firefox&logoColor=white&labelColor=4C51BF" alt="Portfolio"/>
+  <a href="https://yllada.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-4C51BF?style=for-the-badge&logo=firefox&logoColor=white&labelColor=4C51BF" alt="Portfolio"/>
   </a>
   <a href="#github-stats">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
@@ -30,6 +30,22 @@
   <img src="https://img.shields.io/github/followers/yllada?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
   <img src="https://img.shields.io/github/stars/yllada?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f97316&labelColor=1c1917"/>
 </p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Live Portfolio
+
+### [**yllada.github.io**](https://yllada.github.io)
+
+A fast, zero-JS Astro site showcasing my backend & cybersecurity engineering work — built with Astro + Tailwind CSS, optimized for SEO and Core Web Vitals.
+
+<a href="https://yllada.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Visit_Portfolio-0F172A?style=for-the-badge&logoColor=white&labelColor=00D9FF" alt="Visit Portfolio"/>
+</a>
 
 </div>
 
@@ -291,8 +307,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yllada94)
 [![Email](https://img.shields.io/badge/-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadian.llada@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-View_Portfolio-4C51BF?style=for-the-badge&logo=firefox&logoColor=white)](#featured-projects)
-[![Download CV](https://img.shields.io/badge/-Download_CV-28a745?style=for-the-badge&logo=download&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/-View_Portfolio-4C51BF?style=for-the-badge&logo=firefox&logoColor=white)](https://yllada.github.io)
 
 </div>
 
