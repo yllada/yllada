@@ -1,4 +1,4 @@
-# Yadian Llada
+# Yadian Llada Lopez
 
 Go backend engineer. I build systems you'd trust with data you can't afford to lose.
 
